@@ -1,4 +1,4 @@
-# ejercicios-de-pseint
+# Ejercicios-Pseint
 
 Ejercicios de PSeInt realizados en Programación
 
